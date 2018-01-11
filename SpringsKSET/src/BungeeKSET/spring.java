@@ -12,6 +12,6 @@ public class spring {
 		this.length=length;
 		this.displacement=displacement;
 		
-		//hello
+		//hello my name is Kara
 	}
 }
