@@ -11,7 +11,5 @@ public class spring {
 		this.m=m;
 		this.length=length;
 		this.displacement=displacement;
-		
-		//hello my name is Kara
 	}
 }
