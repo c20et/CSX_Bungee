@@ -7,4 +7,6 @@ import org.opensourcephysics.frames.*;
 public class BungeeKSET extends AbstractSimulation{
 	Circle person = new Circle();
 	
+	//alithewaihlwerhoaiwerhpoiwerhpoweirh
+	
 }
